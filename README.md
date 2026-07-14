@@ -4,12 +4,11 @@ I'm a Computer Science undergraduate at MIT Manipal (Batch of '29) with a strong
 
 This GitHub is where I document that journey. Rather than just collecting code, I focus on building complete, well-documented projectsy. Right now, my goal is to develop a strong foundation in AI engineering while creating a portfolio that reflects consistent learning, and practical problem-solving.
 
-### **Guide to all my AI Projects :** 
-
 - 🔧 Focus: AI Engineering, Computer Vision, Machine Learning, and Robotics
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/kushagra-agarwal-056871398) · [Email](mailto:kushagra081207@gmail.com)
 - 🧩 Other interests: Table Tennis (National Player), Art, Philosophy, Video Editing, Chess
 
+### **Guide to all my AI Projects :** 
 <br>
 
 ## Tech Stack
