@@ -8,7 +8,7 @@ This GitHub is where I document that journey. Rather than just collecting code, 
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/kushagra-agarwal-056871398) · [Email](mailto:kushagra081207@gmail.com)
 - 🧩 Other interests: Table Tennis (National Player), Art, Philosophy, Video Editing, Chess
 
-### **Guide to all my AI Projects :** 
+### **Guide to all my AI Projects : https://github.com/Altster/AI-Projects** 
 <br>
 
 ## Tech Stack
