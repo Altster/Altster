@@ -4,7 +4,7 @@ I'm a Computer Science undergraduate at MIT Manipal (Batch of '29) with a strong
 
 This GitHub is where I document that journey. Rather than just collecting code, I focus on building complete, well-documented projectsy. Right now, my goal is to develop a strong foundation in AI engineering while creating a portfolio that reflects consistent learning, and practical problem-solving.
 
-### Guide to all my AI Projects : 
+### **Guide to all my AI Projects :** 
 
 - 🔧 Focus: AI Engineering, Computer Vision, Machine Learning, and Robotics
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/kushagra-agarwal-056871398) · [Email](mailto:kushagra081207@gmail.com)
@@ -12,7 +12,7 @@ This GitHub is where I document that journey. Rather than just collecting code, 
 
 <br>
 
-**Tech Stack**
+## Tech Stack
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +41,7 @@ This GitHub is where I document that journey. Rather than just collecting code, 
 
 <br>
 
-**GitHub Stats**
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Altster&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
