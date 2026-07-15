@@ -41,8 +41,3 @@ This GitHub is where I document that journey. Rather than just collecting code, 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 
 <br>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Altster&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
